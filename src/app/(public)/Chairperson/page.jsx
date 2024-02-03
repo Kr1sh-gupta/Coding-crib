@@ -8,11 +8,11 @@ import Image from "next/image";
 import Heading2 from "@components/Heading2";
 import { chairpersonData } from "@/constants/About_us";
 
-export const metadata = {
-  title: "Chaiperson - The Government PU college, Rajanakunte",
-  description:
-    "lorem",
-};
+// export const metadata = {
+//   title: "Chaiperson - The Government PU college, Rajanakunte",
+//   description:
+//     "lorem",
+// };
 
 
 const Chairperson = () => {
